@@ -1,0 +1,386 @@
+{
+  "heading": "Present perfect",
+  "topics": [
+    {
+      "heading": "Present perfect",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank: \"The cat ____ (catch) three mice this week.\"",
+          "options": [
+            {
+              "text": "catch"
+            },
+            {
+              "text": "catches"
+            },
+            {
+              "text": "has caught"
+            },
+            {
+              "text": "have caught"
+            }
+          ],
+          "answer": 2,
+          "explanation": "We use 'has' with singular subjects like 'the cat,' and 'caught' is the past participle of 'catch.' This shows completed actions within a time period that includes the present."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which sentence uses the present perfect tense correctly?",
+          "options": [
+            {
+              "text": "They gone to the park."
+            },
+            {
+              "text": "They have gone to the park."
+            },
+            {
+              "text": "They has gone to the park."
+            },
+            {
+              "text": "They goed to the park."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This sentence correctly uses 'have' with the plural subject 'they,' and 'gone' is the past participle of 'go.'"
+        },
+        {
+          "questionNo": 3,
+          "question": "Choose the correct sentence:",
+          "options": [
+            {
+              "text": "I have never rode a horse."
+            },
+            {
+              "text": "I have never ridden a horse."
+            },
+            {
+              "text": "I have never rid a horse."
+            },
+            {
+              "text": "I have never rided a horse."
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Ridden' is the correct past participle of 'ride.' This sentence correctly uses 'have' + 'never' + past participle to express a lack of experience up to now."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank: \"She ____ (lose) her keys three times this month.\"",
+          "options": [
+            {
+              "text": "has lose"
+            },
+            {
+              "text": "has losed"
+            },
+            {
+              "text": "has lost"
+            },
+            {
+              "text": "have lost"
+            }
+          ],
+          "answer": 2,
+          "explanation": "We use 'has' with 'she,' and 'lost' is both the past tense and past participle of 'lose.' This shows a repeated action within a time period including the present."
+        },
+        {
+          "questionNo": 5,
+          "question": "\"We have went to the zoo\" is the correct sentence in the Present perfect tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct form should be 'We have gone to the zoo.' 'Gone' is the past participle of 'go' used in the present perfect tense."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which sentence is in the present perfect tense?",
+          "options": [
+            {
+              "text": "I am writing a letter."
+            },
+            {
+              "text": "I write a letter every week."
+            },
+            {
+              "text": "I wrote a letter yesterday."
+            },
+            {
+              "text": "I have written a letter."
+            }
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses 'have' + the past participle 'written,' which is the correct structure for the present perfect tense."
+        },
+        {
+          "questionNo": 7,
+          "question": "What does \"She has lived here for five years\" mean?",
+          "options": [
+            {
+              "text": "She no longer lives here."
+            },
+            {
+              "text": "She started living here five years ago and still lives here."
+            },
+            {
+              "text": "She will live here for five more years."
+            },
+            {
+              "text": "She lived here exactly five years ago."
+            }
+          ],
+          "answer": 1,
+          "explanation": "The present perfect tense with 'for' expresses an action that began in the past and continues up to the present moment."
+        },
+        {
+          "questionNo": 8,
+          "question": "\"They have ate lunch\" is the correct sentence in the Present perfect tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct form should be 'They have eaten lunch.' 'Eaten' is the past participle of 'eat' used in the present perfect tense."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word completes this present perfect sentence? \"It ____ rained all day.\"",
+          "options": [
+            {
+              "text": "have"
+            },
+            {
+              "text": "has"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "was"
+            }
+          ],
+          "answer": 1,
+          "explanation": "We use 'has' with 'it' in the present perfect tense. The full sentence 'It has rained all day' shows an action that started in the past and continues to the present."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank: \"The dog ____ (bury) its bone in the yard.\"",
+          "options": [
+            {
+              "text": "has burying"
+            },
+            {
+              "text": "have buried"
+            },
+            {
+              "text": "has buried"
+            },
+            {
+              "text": "have burying"
+            }
+          ],
+          "answer": 2,
+          "explanation": "We use 'has' with singular subjects like 'the dog,' and 'buried' is the past participle of 'bury.' This shows a completed action with present relevance."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which sentence uses the present perfect tense correctly?",
+          "options": [
+            {
+              "text": "We are finished our homework."
+            },
+            {
+              "text": "We have finish our homework."
+            },
+            {
+              "text": "We have finished our homework."
+            },
+            {
+              "text": "We has finished our homework."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence correctly uses 'have' with the plural subject 'we,' and 'finished' is the past participle of 'finish.'"
+        },
+        {
+          "questionNo": 12,
+          "question": "What is the present perfect form of \"break\"?",
+          "options": [
+            {
+              "text": "breaked"
+            },
+            {
+              "text": "broke"
+            },
+            {
+              "text": "breaking"
+            },
+            {
+              "text": "broken"
+            }
+          ],
+          "answer": 3,
+          "explanation": "'Broken' is the past participle of 'break,' which is used in the present perfect tense. The full form would be 'have broken' or 'has broken.'"
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the correct sentence:",
+          "options": [
+            {
+              "text": "The sun has rised."
+            },
+            {
+              "text": "The sun has rose."
+            },
+            {
+              "text": "The sun has risen."
+            },
+            {
+              "text": "The sun has rising."
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Risen' is the correct past participle of 'rise.' This sentence correctly uses 'has' + past participle to express a completed action with present relevance."
+        },
+        {
+          "questionNo": 14,
+          "question": "\"She have sang in the choir\" is the correct sentence in the Present perfect tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is incorrect for two reasons. First, it should be 'has' with 'she,' not 'have.' Second, the past participle of 'sing' is 'sung.' The correct form is 'She has sung in the choir.'"
+        },
+        {
+          "questionNo": 15,
+          "question": "Which sentence is in the present perfect tense?",
+          "options": [
+            {
+              "text": "I am growing taller every year."
+            },
+            {
+              "text": "I grow taller every year."
+            },
+            {
+              "text": "I grew taller last year."
+            },
+            {
+              "text": "I have grown taller this year."
+            }
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses 'have' + the past participle 'grown,' which is the correct structure for the present perfect tense. It shows a change that happened over a period of time up to now."
+        },
+        {
+          "questionNo": 16,
+          "question": "\"We have went to bed early\" is the correct sentence in the Present perfect tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct form should be 'We have gone to bed early.' 'Gone' is the past participle of 'go' used in the present perfect tense."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word completes this present perfect sentence? \"She ____ learned to ride a bike.\"",
+          "options": [
+            {
+              "text": "have"
+            },
+            {
+              "text": "has"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "was"
+            }
+          ],
+          "answer": 1,
+          "explanation": "We use 'has' with 'she' in the present perfect tense. The full sentence 'She has learned to ride a bike' shows an action completed in the past with relevance to the present."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank: \"The movie ____ (start) already.\"",
+          "options": [
+            {
+              "text": "has starting"
+            },
+            {
+              "text": "have started"
+            },
+            {
+              "text": "has started"
+            },
+            {
+              "text": "have start"
+            }
+          ],
+          "answer": 2,
+          "explanation": "We use 'has' with singular subjects like 'the movie,' and 'started' is the past participle of 'start.' This shows an action that began in the past and is still relevant."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct present continuous form: \"Look! It ____ (snow) outside.\"",
+          "options": [
+            {
+              "text": "snow"
+            },
+            {
+              "text": "snows"
+            },
+            {
+              "text": "is snowing"
+            },
+            {
+              "text": "has snowed"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The present continuous tense uses 'is' + the '-ing' form of the verb to describe an action happening at the moment of speaking."
+        },
+        {
+          "questionNo": 20,
+          "question": "What is the present continuous form of \"play\"?",
+          "options": [
+            {
+              "text": "plays"
+            },
+            {
+              "text": "playing"
+            },
+            {
+              "text": "is play"
+            },
+            {
+              "text": "is playing"
+            }
+          ],
+          "answer": 3,
+          "explanation": "The present continuous uses 'is/am/are' + the '-ing' form of the verb. For a singular subject, we use 'is playing.'"
+        }
+      ]
+    }
+  ]
+}
